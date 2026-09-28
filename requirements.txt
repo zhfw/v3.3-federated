@@ -1,0 +1,6 @@
+streamlit>=1.39
+pandas>=2.0
+numpy>=1.24
+xgboost>=2.0
+biopython>=1.83
+reportlab>=4.0
